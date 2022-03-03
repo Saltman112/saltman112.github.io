@@ -36,14 +36,16 @@ h2 {
     font-size: 50px;
     position: relative;
     text-align: center;
-    margin-right: 900px;
+    margin-right: 30%;
 }
-.mainPageParagraph{
-    color:#4D897F;
-    font-size: 30px;
-    position: center;
-    text-align: center;
-    text-overflow: clip;
-    width: 800px;
-    margin-left: 400px;
+@media (min-width: 575px) {
+   .mainPageParagraph{
+        color:#4D897F;
+        font-size: 30px;
+        position: center;
+        text-align: center;
+        text-overflow: clip;
+        width: 800px;
+        margin-left: 33%;
+    }
 }
