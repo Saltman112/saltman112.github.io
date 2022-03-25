@@ -11,12 +11,18 @@ h1 {
 .topnav{
     text-align:center;
     overflow: auto;
-    width: 100%;
+    width: 45%;
+    background-color: #4D897F;
+    color: #00087d;
+    position: absolute;
+    left: 29%;
+    top: 1.8%;
+    
 }
 .topnav a{
     float: center;
     padding: 12px;
-    color: #4D897F;
+    color: #00087d;
     font-size: 20px;
     width: 100%;
     
@@ -38,14 +44,12 @@ h2 {
     text-align: center;
     margin-right: 30%;
 }
-@media (min-width: 575px) {
-   .mainPageParagraph{
-        color:#4D897F;
-        font-size: 30px;
-        position: center;
-        text-align: center;
-        text-overflow: clip;
-        width: 800px;
-        margin-left: 33%;
-    }
+.mainPageParagraph{
+    color:#85BF59;
+    font-size: 30px;
+    position: center;
+    text-align: center;
+    text-overflow: clip;
+    width: 800px;
+    margin-left: 20%;
 }
