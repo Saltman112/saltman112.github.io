@@ -37,43 +37,43 @@ h1 {
     margin-left: auto;
     margin-right:auto;
     position: absolute;
-    top: 22%;
+    top: 30%;
     max-width: 70%;
-    height:auto;
+    height:70%;
 }
 .cornwall{
     display: block;
-    position: absolute;
-    top: 21%;
     margin-left: auto;
     margin-right:auto;
+    position: absolute;
+    top: 30%;
     max-width: 70%;
-    height:auto;
+    height:70%;
 }
 .boulevard{
     display: block;
     margin-left: auto;
-    position: absolute;
-    top: 22%;
     margin-right:auto;
+    position: absolute;
+    top: 30%;
     max-width: 70%;
-    height:auto;
+    height:70%;
 }
 .downtown{
     display: block;
-    position: absolute;
-    top: 22%;
     margin-left: auto;
     margin-right:auto;
+    position: absolute;
+    top: 30%;
     max-width: 70%;
-    height:auto;
+    height:70%;
 }
 h2 {
     color: #85BF59;
     font-size: 50px;
     position: absolute;
     text-align: center;
-    top: 70%;
+    top: 105%;
     margin-right: 30%;
 }
 .mainPageParagraph{
@@ -82,7 +82,7 @@ h2 {
     position: center;
     text-align: center;
     position: absolute;
-    top: 80%;
+    top: 120%;
     text-overflow: clip;
     width: 900px;
     margin-left: 10%;
